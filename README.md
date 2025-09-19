@@ -1,4 +1,7 @@
-
+# About me:
+ - I am Frontend developer and love programming.
+ - I am pattionate to contribute and solve challanges
+ - Critical thinking is my life style.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samira-sobhani-148300170) 
 
